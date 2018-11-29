@@ -1,0 +1,21 @@
+﻿  Global.cpp
+  Grammar_Analysis.cpp
+c:\users\熠睿\onedrive\大四上\学习资料\编译原理课程设计\c语言编译器设计\工程文件\后端\compiler_.c\compiler_.c\grammar_analysis.cpp(113): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\熠睿\onedrive\大四上\学习资料\编译原理课程设计\c语言编译器设计\工程文件\后端\compiler_.c\compiler_.c\grammar_analysis.cpp(127): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\熠睿\onedrive\大四上\学习资料\编译原理课程设计\c语言编译器设计\工程文件\后端\compiler_.c\compiler_.c\grammar_analysis.cpp(429): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  Intermediate_Code_Optimization.cpp
+c:\users\熠睿\onedrive\大四上\学习资料\编译原理课程设计\c语言编译器设计\工程文件\后端\compiler_.c\compiler_.c\intermediate_code_optimization.cpp(37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\熠睿\onedrive\大四上\学习资料\编译原理课程设计\c语言编译器设计\工程文件\后端\compiler_.c\compiler_.c\intermediate_code_optimization.cpp(51): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  Lexical_Analysis.cpp
+  main.cpp
+  Pretreatment.cpp
+c:\users\熠睿\onedrive\大四上\学习资料\编译原理课程设计\c语言编译器设计\工程文件\后端\compiler_.c\compiler_.c\pretreatment.cpp(153): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\熠睿\onedrive\大四上\学习资料\编译原理课程设计\c语言编译器设计\工程文件\后端\compiler_.c\compiler_.c\pretreatment.cpp(175): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\熠睿\onedrive\大四上\学习资料\编译原理课程设计\c语言编译器设计\工程文件\后端\compiler_.c\compiler_.c\pretreatment.cpp(178): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\熠睿\onedrive\大四上\学习资料\编译原理课程设计\c语言编译器设计\工程文件\后端\compiler_.c\compiler_.c\pretreatment.cpp(183): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\熠睿\onedrive\大四上\学习资料\编译原理课程设计\c语言编译器设计\工程文件\后端\compiler_.c\compiler_.c\pretreatment.cpp(244): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\熠睿\onedrive\大四上\学习资料\编译原理课程设计\c语言编译器设计\工程文件\后端\compiler_.c\compiler_.c\pretreatment.cpp(246): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\熠睿\onedrive\大四上\学习资料\编译原理课程设计\c语言编译器设计\工程文件\后端\compiler_.c\compiler_.c\pretreatment.cpp(252): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  Symbol_Table.cpp
+  正在生成代码...
+  Compiler_.c.vcxproj -> C:\Users\熠睿\OneDrive\大四上\学习资料\编译原理课程设计\C语言编译器设计\工程文件\后端\Compiler_.c\x64\Debug\Compiler_.c.exe

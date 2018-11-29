@@ -1,0 +1,16 @@
+﻿  R0_Project.c
+c:\users\熠睿\desktop\r0_project.c(12): warning C4013: “input”未定义；假设外部返回 int
+c:\users\熠睿\desktop\r0_project.c(13): warning C4013: “output”未定义；假设外部返回 int
+  Global.cpp
+  Grammar_Analysis.cpp
+  Intermediate_Code_Optimization.cpp
+c:\users\熠睿\onedrive\大四上\学习资料\编译原理课程设计\c语言编译器设计\工程文件\后端\compiler_.c\compiler_.c\intermediate_code_optimization.cpp(101): warning C4018: “<”: 有符号/无符号不匹配
+  Lexical_Analysis.cpp
+  main.cpp
+  Pretreatment.cpp
+  Symbol_Table.cpp
+  正在生成代码...
+main.obj : error LNK2005: _main 已经在 R0_Project.obj 中定义
+R0_Project.obj : error LNK2019: 无法解析的外部符号 _input，该符号在函数 _main 中被引用
+R0_Project.obj : error LNK2019: 无法解析的外部符号 _output，该符号在函数 _main 中被引用
+C:\Users\熠睿\OneDrive\大四上\学习资料\编译原理课程设计\C语言编译器设计\工程文件\后端\Compiler_.c\Debug\Compiler_.c.exe : fatal error LNK1120: 2 个无法解析的外部命令
