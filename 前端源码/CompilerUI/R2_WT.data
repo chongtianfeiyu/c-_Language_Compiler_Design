@@ -1,0 +1,46 @@
+种别码syn		单词符号symbol				类型type
+0			#					end
+1			else					keyword
+2			if					keyword
+3			int					keyword
+4			return					keyword
+5			void					keyword
+6			while					keyword
+
+7			+					operator
+8			-					operator
+9			*					operator
+10			/					operator
+11			<					operator
+12			>					operator
+13			=					operator
+14			<=					operator
+15			>=					operator
+16			==					operator
+17			!=					operator
+18			(					operator
+19			)					operator
+
+20			[					array
+21			]					array
+
+22			;					line_end
+
+23			,					dot
+
+24			{					struct
+25			}					struct
+
+26			letter|letter*				id
+
+27			digit|digit*				num
+
+==========================================================
+
+COP 比较操作符:		<	<=	>	>=	==	!=
+AOP 赋值操作符:		=
+OOP 运算操作符:		+	-	*	/
+EOP 句末操作符:		;
+SOP 结构分隔符:		(	)	,	[	]	{	}
+RESERVED 保留字:		int if else return void while
+

@@ -1,0 +1,13 @@
+del /f /s /q c1_EC.data
+del /f /s /q c2_EB.data
+del /f /s /q c3_LA.data
+del /f /s /q c4_GA.data
+del /f /s /q c5_ST.data
+del /f /s /q c6_IC.data
+del /f /s /q c7_ICO.data
+del /f /s /q g1_ELR.data
+del /f /s /q g2_EG.data
+del /f /s /q g3_VNVT.data
+del /f /s /q g4_FF.data
+del /f /s /q g5_FAT.data
+del /f /s /q log.txt
